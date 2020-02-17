@@ -1,8 +1,5 @@
-package sample
 
-actual class Sample {
-    actual fun checkMe() = 42
-}
+package sample
 
 actual object Platform {
     actual fun name(): String = "JVM"
