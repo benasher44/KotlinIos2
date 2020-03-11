@@ -1,5 +1,4 @@
 rootProject.name = "KotlinIos2"
-enableFeaturePreview("GRADLE_METADATA")
 pluginManagement {
     repositories {
         gradlePluginPortal()
